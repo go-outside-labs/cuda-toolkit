@@ -1,4 +1,4 @@
-# 💝CUDA Studies for Deep Learning Problems 💝
+# 💝CUDA for Deep Learning Problems 💝
 
 ![](DJI_0027.jpg)
 
