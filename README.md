@@ -1,9 +1,16 @@
 # CUDA for Deep Learning Problems 
 
 
+<br>
+
+
 - Parallel computing platform and API by NVIDIA.
 - Allows to use CUDA-enabled GPU for general purpose processing.
 
+
+<br>
+
+---
 
 ## GPU Cards
 
@@ -260,10 +267,3 @@ Check the directories under 0-6.
 * [CUDA for Engineers](https://www.amazon.com/CUDA-Engineers-Introduction-High-Performance-Computing/dp/013417741X).
 
 
-----
-
-
-## License
-
-When making a reference to my work, please use my [website](http://bt3gl.github.io/index.html).
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
